@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @feleshia33
+- 👋 Hi, I’m @feleshia33 aka Marti
 - 👀 I’m interested in Python, SQL, Data Analytics
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Python and SQL code
