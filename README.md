@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feleshia33 aka Marti
-- 👀 I’m interested in Python, SQL, Data Analytics
+- 👀 I’m interested in Python, SQL, JavaScript, MongoDB, Data Analytics
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Python and SQL code
 - 📫 How to reach me feleshiawest@gmail.com
