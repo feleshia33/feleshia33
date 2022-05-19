@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @feleshia33 aka Marti
-- 👀 I’m interested in Python, SQL, JavaScript, MongoDB, Data Analytics
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Python and SQL code
+- 👀 I’m interested in Python, SQL, JavaScript, MongoDB, AngularJS
+- 🌱 I’m currently learning AngularJS
+- 💞️ I’m looking to collaborate on projects/ideas
 - 📫 How to reach me feleshiawest@gmail.com
 
 <!---
