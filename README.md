@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @feleshia33 aka Marti
-- 👀 I’m interested in Python, SQL, JavaScript, MongoDB, HTML, CSS
-- 🌱 I’m currently learning ReactJS ..and loving it ☺
+- 👋 Hi, I’m Feleshia aka Marti
+- 👀 Self taught HTML, CSS, JavaScript, Python, SQL, MongoDB
+- 🌱 I’m currently learning ReactJS ..and love it 😊
 - 💞️ I’m looking to collaborate on projects/ideas
 - 📫 How to reach me feleshiawest@gmail.com
 - 🚧 www.byfeleshia.com
