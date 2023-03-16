@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Feleshia aka Marti
-- 👀 Self taught HTML, CSS, JavaScript, Python, SQL, MongoDB
+- 👀 Self taught JavaScript, Python, SQL, Tableau
 - 🌱 I’m currently learning ReactJS ..and love it 😊
 - 💞️ I’m looking to collaborate on projects/ideas
 - 📫 How to reach me feleshiawest@gmail.com
