@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Feleshia aka Marti
-- 👀 Continuously learning SQL, Excel, Tableau, Python
+- 👀 Continuously learning SQL, Excel, Tableau, Python, AI
 - 🚧 Currently attending Western Governors University - BS Information Technology || Dec 2023
 - 💞️ I’m looking to collaborate on projects/ideas
 - 📫 How to reach me feleshiawest@gmail.com
