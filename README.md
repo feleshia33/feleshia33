@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Feleshia bka Marti
 - 👀 Continuously learning Excel, SQL, Power BI, Python
-- 🚧 Attended Western Governors University - BS Information Technology || March 2024
+- 🚧 Attended TX State and WGU, earned degrees BBA Accounting, BS Information Technology and a MBA 
 - 💞️ I’m looking to collaborate on projects/ideas
 - 📫 How to reach me feleshiawest@gmail.com
 - 🔗 https://www.linkedin.com/in/feleshiawest/
